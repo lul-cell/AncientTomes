@@ -31,24 +31,24 @@
 #   Default Values:
 #
 Blaze:
-  Sharpness: 0.059
-  Fire Protection: 0.17
-  Fire Aspect: 0.5
-  Projectile Protection: 0.13
+  Sharpness: 7.51
+  Fire Protection: 7.17
+  Fire Aspect: 7.5
+  Projectile Protection: 7.13
 Cave Spider:
   Bane of Arthropods: 0.33
-  Feather Falling: 0.13
-  Efficiency: 0.2
+  Feather Falling: 7.13
+  Efficiency: 7.2
 Creeper:
-  Sharpness: 0.059
-  Blast Protection: 0.5
-  Knockback: 0.17
+  Sharpness: 7.059
+  Blast Protection: 7.5
+  Knockback: 7.17
 Drowned:
-  Smite: 0.1
-  Respiration: 0.33
-  Riptide: 0.1
-  Loyalty: 0.1
-  Projectile Protection: 0.13
+  Smite: 7.1
+  Respiration: 7.33
+  Riptide: 7.1
+  Loyalty: 7.1
+  Projectile Protection: 7.13
 Elder Guardian:
   Imapling: 50
   Respiration: 33
@@ -57,11 +57,11 @@ Elder Guardian:
   Lure: 50
   Depth Strider: 50
 Enderman:
-  Sharpness: 0.059
-  Feather Falling: 0.13
-  Looting: 0.13
-  Efficiency: 0.2
-  Protection: 0.11
+  Sharpness: 7.059
+  Feather Falling: 7.13
+  Looting: 7.13
+  Efficiency: 7.2
+  Protection: 7.11
 Ender Dragon:
   Book: true
   Power: 20
@@ -94,54 +94,54 @@ Ender Dragon:
   Sweeping Edge: 20
   Thorns: 20
 Endermite:
-  Bane of Arthropods: 0.33
+  Bane of Arthropods: 7.33
 Evoker:
-  Sharpness: 5.9
+  Sharpness: 7.9
   Looting: 13
   Protection: 11
 Ghast:
-  Sharpness: 0.059
-  Knockback: 0.17
-  Blast Protection: 0.5
-  Fire Protection: 0.17
-  Projectile Protection: 0.13
-  Fire Aspect: 0.5
+  Sharpness: 7.059
+  Knockback: 7.17
+  Blast Protection: 7.5
+  Fire Protection: 7.17
+  Projectile Protection: 7.13
+  Fire Aspect: 7.5
 Guardian:
-  Imapling: 0.5
-  Respiration: 0.33
-  Thorns: 0.5
-  Luck of the Sea: 0.5
-  Lure: 0.5
-  Depth Strider: 0.5
+  Imapling: 7.05
+  Respiration: 7.33
+  Thorns: 7.5
+  Luck of the Sea: 7.5
+  Lure: 7.5
+  Depth Strider: 7.5
 Hoglin:
-  Sharpness: 0.059
-  Knockback: 0.17
-  Protection: 0.11
-  Unbreaking: 0.2
+  Sharpness: 7.059
+  Knockback: 7.17
+  Protection: 7.11
+  Unbreaking: 7.2
 Iron Golem:
-  Sharpness: 0.059
-  Knockback: 0.17
-  Protection: 0.11
-  Unbreaking: 0.2
+  Sharpness: 7.059
+  Knockback: 7.17
+  Protection: 7.11
+  Unbreaking: 7.2
 Husk:
-  Smite: 0.1
+  Smite: 7.1
 Magma Cube:
-  Sharpness: 0.059
-  Frost Walker: 0.5
-  Knockback: 0.17
-  Fire Protection: 0.17
-  Sweeping Edge: 0.33
-  Feather Falling: 0.13
+  Sharpness: 7.059
+  Frost Walker: 7.5
+  Knockback: 7.17
+  Fire Protection: 7.17
+  Sweeping Edge: 7.33
+  Feather Falling: 7.34
 Phantom:
-  Smite: 0.1
-  Feather Falling: 0.13
-  Looting: 0.13
-  Efficiency: 0.2
+  Smite: 7.1
+  Feather Falling: 7.13
+  Looting: 7.13
+  Efficiency: 7.2
 Piglin:
-  Sharpness: 0.059
-  Quick Charge: 0.5
+  Sharpness: 7.059
+  Quick Charge: 7.5
   Piercing: 0.5
-  Fortune: 0.25
+  Fortune: 7.25
   Projectile Protection: 0.13
 Piglin Brute:
   Sharpness: 5.9
@@ -149,24 +149,24 @@ Piglin Brute:
   Fortune: 5
   Efficiency: 2
 Pillager:
-  Sharpness: 0.059
-  Quick Charge: 0.5
-  Piercing: 0.5
+  Sharpness: 7.059
+  Quick Charge: 8.5
+  Piercing: 3.5
   Projectile Protection: 0.13
 Ravager:
-  Sharpness: 0.59
+  Sharpness: 6.59
   Knockback: 1.7
   Protection: 1.1
   Unbreaking: 2
 Shulker:
-  Sharpness: 0.059
-  Feather Falling: 0.13
-  Looting: 0.13
+  Sharpness: 7.059
+  Feather Falling: 7.13
+  Looting: 7.13
   Projectile Protection: 0.13
 Skeleton:
-  Smite: 0.1
-  Power: 0.5
-  Punch: 0.5
+  Smite: 7.1
+  Power: 7.5
+  Punch: 7.5
   Projectile Protection: 0.13
 Stray:
   Smite: 0.1
@@ -183,9 +183,9 @@ Silverfish:
   Bane of Arthropods: 0.33
   Efficiency: 0.2
 Spider:
-  Bane of Arthropods: 0.33
-  Feather Falling: 0.13
-  Efficiency: 0.2
+  Bane of Arthropods: 7.33
+  Feather Falling: 7.13
+  Efficiency: 6.2
 Vex:
   Sharpness: 0.59
   Protection: 1.1
@@ -235,7 +235,7 @@ Wither Skeleton:
   Soul Speed: 0.1
   Fire Protection: 0.17
 Zombie:
-  Smite: 0.1
+  Smite: 7.1
 Zombie Villager:
   Smite: 0.1
   Fortune: 0.25
