@@ -2,4 +2,4 @@ name: AncientTomes
 version: 1.0
 author: Ben Norton
 main: com.bawnorton.ancienttomes.AncientTomes
-api-version: 1.16
+api-version: 1.16.4
